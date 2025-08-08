@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/6mmj7Fk/github-banner.png" alt="banner" />
+  <img src="https://i.ibb.co/6mmj7Fk/github-banner.png](https://i.ytimg.com/vi/pO5zZ7jsQX0/maxresdefault.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Привет, я Паша 👋</h1>
@@ -43,14 +43,6 @@
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=fff)
 ![SPA](https://img.shields.io/badge/-SPA-0A66C2?logo=singlepageapplication&logoColor=fff)
 ![SaaS](https://img.shields.io/badge/-SaaS-1A73E8?logo=saas&logoColor=fff)
-
----
-
-### 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NekrasovPS&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekrasovPS&layout=compact&theme=radical" height="150" />
-</p>
 
 ---
 

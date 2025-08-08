@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/6mmj7Fk/github-banner.png](https://i.ytimg.com/vi/pO5zZ7jsQX0/maxresdefault.jpg" alt="banner" />
+  <img src="https://i.ytimg.com/vi/pO5zZ7jsQX0/maxresdefault.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Привет, я Паша 👋</h1>

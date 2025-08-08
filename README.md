@@ -48,4 +48,4 @@
 
 ### 📫 Связаться со мной
 [![Telegram](https://img.shields.io/badge/-@nekrps-26A5E4?logo=telegram&logoColor=fff)](https://t.me/nekrps)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:example@mail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:psnekr@gmail.com)
